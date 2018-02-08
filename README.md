@@ -1,5 +1,5 @@
 FBLA Tomely
-Hello, my name is Vennela Gudlavenkatasiva. My teammates (Victoria App and Mariella Overdorff) and we were asked to create a mobile app to manage the issuance of books and provide information on the school library. However, we were only able to create and test the app on Android devices. So currently, Tomely is not supported on IOS devices.
+Hello, my name is Vennela Gudlavenkatasiva. Me and my teammate Victoria App were asked to create a mobile app to manage the issuance of books and provide information on the school library. However, we were only able to create and test the app on Android devices. So currently, Tomely is not supported on IOS devices.
 
 1. How To Install The App
 2. How To Use The App
